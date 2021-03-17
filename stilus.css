@@ -1,0 +1,39 @@
+body {
+  background-color: rgb(0, 37, 158);
+}
+
+.dark-mode .box {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+.dark-mode .gomb{
+  background-color: rgb(58, 58, 58);
+  color: white;
+}
+
+.box{
+  background-color: rgb(255, 255, 255);
+}
+
+.pastel-mode .box {
+  background-color: #E0BBE4;
+  color: black;
+  
+}
+.pastel-mode .gomb{
+  background-color: #957DAD;
+  color: black;
+}
+.harsany-mode .box{
+  background-color: #6a9c9a;
+  color: black;
+}
+.harsany-mode .box{
+  background-color: #6a9c9a;
+  color: black;
+}
+.harsany-mode .gomb {
+  background-color: beige;
+  color: rgb(49, 12, 12);
+}
+
